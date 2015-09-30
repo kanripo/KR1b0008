@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 禹貢指南
-#+DATE: 2015-09-23 09:35:52
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:01:39.616721
+#+PROPERTY: ID KR1b0008
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷三
 <pb:KR1b0008_WYG_003-1a>¶
 欽定四庫全書¶
 　禹貢指南卷三¶
@@ -416,4 +418,3 @@
 　去洞庭九江不甚逺宜可望也南北大川支派可疑¶
 　者唯九河九江故併論之¶
 　禹貢指南卷三¶
-
